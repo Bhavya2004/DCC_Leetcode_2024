@@ -8,3 +8,4 @@
 4 | 4/1/23 | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | Medium | [Java](./January%202024/Minimum_Number_of_Operations_to_Make_Array_Empty.java) | Jan |
 5 | 5/1/23 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Java](./January%202024/Longest_Increasing_Subsequence.java) | Jan |
 6 | 6/1/23 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard | [Java](./January%202024/Maximum_Profit_in_Job_Scheduling.java) | Jan |
+7 | 7/1/23 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | Hard | [Java](./January%202024/Arithmetic_Slices_II_Subsequence.java) | Jan | 
