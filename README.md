@@ -12,3 +12,4 @@
 8 | 8/1/23 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | [Java](./January%202024/Range_Sum_of_BST.java) | Jan |
 9 | 9/1/23 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | [Java](./January%202024/Leaf_Similar_Trees.java) | Jan |
 10 | 10/1/23 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium | [Java](./January%202024/Amount_of_Time_for_Binary_Tree_to_Be_Infected.java) | Jan | 
+11 | 11/1/23 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Medium | [Java](./January%202024/Maximum_Difference_Between_Node_and_Ancestor.java) | Jan |
