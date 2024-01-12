@@ -13,3 +13,4 @@
 9 | 9/1/23 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | [Java](./January%202024/Leaf_Similar_Trees.java) | Jan |
 10 | 10/1/23 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium | [Java](./January%202024/Amount_of_Time_for_Binary_Tree_to_Be_Infected.java) | Jan | 
 11 | 11/1/23 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Medium | [Java](./January%202024/Maximum_Difference_Between_Node_and_Ancestor.java) | Jan |
+12 | 12/1/23 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | [Java](./January%202024/Determine_if_String_Halves_Are_Alike.java) | Jan |
