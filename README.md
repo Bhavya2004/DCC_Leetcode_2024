@@ -16,3 +16,4 @@
 12 | 12/1/24 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | [Java](./January%202024/Determine_if_String_Halves_Are_Alike.java) | Jan |
 13 | 13/1/24 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Medium | [Java](./January%202024/Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.java) | Jan |
 14 | 14/1/24 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | [Java](./January%202024/Determine_if_Two_Strings_Are_Close.java) | Jan | 
+15 | 15/1/24 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | Medium | [Java](./January%202024/Find_Players_With_Zero_or_One_Losses.java) | Jan |
