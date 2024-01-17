@@ -18,3 +18,4 @@
 14 | 14/1/24 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | [Java](./January%202024/Determine_if_Two_Strings_Are_Close.java) | Jan | 
 15 | 15/1/24 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | Medium | [Java](./January%202024/Find_Players_With_Zero_or_One_Losses.java) | Jan |
 16 | 16/1/24 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | [Java](./January%202024/Insert_Delete_GetRandom_O(1).java) | Jan |
+17 | 17/1/24 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | [Java](./January%202024/Unique_Number_of_Occurrences.java) | Jan |
