@@ -22,3 +22,4 @@
 18 | 18/1/24 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Java](./January%202024/Climbing_Stairs.java) | Jan |
 19 | 19/1/24 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [Java](./January%202024/Minimum_Falling_Path_Sum.java) | Jan |
 20 | 20/1/24 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | [Java](./January%202024/Sum_of_Subarray_Minimums.java) | Jan |
+21 | 21/1/24 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Java](./January%202024/House_Robber.java) | Jan |
