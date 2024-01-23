@@ -24,3 +24,4 @@
 20 | 20/1/24 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | [Java](./January%202024/Sum_of_Subarray_Minimums.java) | Jan |
 21 | 21/1/24 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Java](./January%202024/House_Robber.java) | Jan |
 22 | 22/1/24 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [Java](./January%202024/Set_Mismatch.java) | Jan | 
+23 | 23/1/24 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium | [Java](./January%202024/Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.java) | Jan |
