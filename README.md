@@ -25,4 +25,4 @@
 21 | 21/1/24 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Java](./January%202024/House_Robber.java) | Jan |
 22 | 22/1/24 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [Java](./January%202024/Set_Mismatch.java) | Jan | 
 23 | 23/1/24 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium | [Java](./January%202024/Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.java) | Jan |
-24 | 24/1/24 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Medium | [Java](Pseudo_Palindromic_Paths_in_a_Binary_Tree.java) | Jan |
+24 | 24/1/24 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Medium | [Java](./January%202024/Pseudo_Palindromic_Paths_in_a_Binary_Tree.java) | Jan |
