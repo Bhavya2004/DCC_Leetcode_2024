@@ -27,3 +27,4 @@
 23 | 23/1/24 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium | [Java](./January%202024/Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.java) | Jan |
 24 | 24/1/24 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Medium | [Java](./January%202024/Pseudo_Palindromic_Paths_in_a_Binary_Tree.java) | Jan |
 25 | 25/1/24 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [Java](./January%202024/Longest_Common_Subsequence.java) | Jan |
+26 | 26/1/24 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | Medium | [Java](./January%202024/Out_of_Boundary_Paths.java) | Jan |
