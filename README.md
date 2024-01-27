@@ -28,3 +28,4 @@
 24 | 24/1/24 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Medium | [Java](./January%202024/Pseudo_Palindromic_Paths_in_a_Binary_Tree.java) | Jan |
 25 | 25/1/24 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [Java](./January%202024/Longest_Common_Subsequence.java) | Jan |
 26 | 26/1/24 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | Medium | [Java](./January%202024/Out_of_Boundary_Paths.java) | Jan |
+27 | 27/1/24 | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | Hard | [Java](./January%202024/K_Inverse_Pairs_Array.java) | Jan |
