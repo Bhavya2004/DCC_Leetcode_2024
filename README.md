@@ -29,3 +29,4 @@
 25 | 25/1/24 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [Java](./January%202024/Longest_Common_Subsequence.java) | Jan |
 26 | 26/1/24 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | Medium | [Java](./January%202024/Out_of_Boundary_Paths.java) | Jan |
 27 | 27/1/24 | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | Hard | [Java](./January%202024/K_Inverse_Pairs_Array.java) | Jan |
+28 | 28/1/24 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | Hard | [Java](./January%202024/Number_of_Submatrices_That_Sum_to_Target.java) | Jan |
