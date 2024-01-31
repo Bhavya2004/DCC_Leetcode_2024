@@ -32,3 +32,4 @@
 28 | 28/1/24 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | Hard | [Java](./January%202024/Number_of_Submatrices_That_Sum_to_Target.java) | Jan |
 29 | 29/1/24 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Java](./January%202024/Implement_Queue_using_Stacks.java) | Jan |
 30 | 30/1/24 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Java](./January%202024/Evaluate_Reverse_Polish_Notation.java) | Jan |
+31 | 31/1/24 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [Java](./January%202024/Daily_Temperatures.java) | Jan |
