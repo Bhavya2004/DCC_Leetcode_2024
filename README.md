@@ -34,3 +34,4 @@
 30 | 30/1/24 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Java](./January%202024/Evaluate_Reverse_Polish_Notation.java) | Jan |
 31 | 31/1/24 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [Java](./January%202024/Daily_Temperatures.java) | Jan |
 32 | 1/2/24 | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Medium | [Java](./February%202024/Divide_Array_Into_Arrays_With_Max_Difference.java) | Feb |
+33 | 2/2/24 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/description/) | Medium | [Java](./February%202024/Sequential_Digits.java) | Feb |
