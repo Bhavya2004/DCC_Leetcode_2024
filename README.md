@@ -39,3 +39,4 @@
 35 | 4/2/24 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Java](./February%202024/Minimum_Window_Substring.java) | Feb |
 36 | 5/2/24 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [Java](./February%202024/First_Unique_Character_in_a_String.java) | Feb |
 37 | 6/2/24 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Java](./February%202024/Group_Anagrams.java) | Feb | 
+38 | 7/2//24 | [ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | [Java](./February%202024/Sort_Characters_By_Frequency.java) | Feb |
