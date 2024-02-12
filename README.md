@@ -44,3 +44,4 @@
 40 | 9/2/24 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [Java](./February%202024/Largest_Divisible_Subset.java) | Feb | 
 41 | 10/2/24 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium | [Java](./February%202024/Palindromic_Substrings.java) | Feb |
 42 | 11/2/24 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard | [Java](./February%202024/Cherry_Pickup_II.java) | Feb |
+43 | 12/2/24 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Java](./February%202024/Majority_Element.java) | Feb |
