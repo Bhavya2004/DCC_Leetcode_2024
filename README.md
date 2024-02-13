@@ -45,3 +45,4 @@
 41 | 10/2/24 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium | [Java](./February%202024/Palindromic_Substrings.java) | Feb |
 42 | 11/2/24 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard | [Java](./February%202024/Cherry_Pickup_II.java) | Feb |
 43 | 12/2/24 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Java](./February%202024/Majority_Element.java) | Feb |
+44 | 13/2/24 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Easy | [Java](/February%202024/Find_First_Palindromic_String_in_the_Array.java) | Feb |
