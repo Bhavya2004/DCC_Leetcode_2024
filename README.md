@@ -49,3 +49,4 @@
 45 | 14/2/24 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | [Java](./February%202024/Rearrange_Array_Elements_by_Sign.java) | Feb |
 46 | 15/2/24 | [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | Medium | [Java](./February%202024/Find_Polygon_With_the_Largest_Perimeter.java) | Feb |
 47 | 16/2/24 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | Medium | [Java](./February%202024/Least_Number_of_Unique_Integers_after_K_Removals.java) | Feb |
+48 | 17/2/24 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | Medium | [Java](./February%202024/Furthest_Building_You_Can_Reach.java) | Feb |
