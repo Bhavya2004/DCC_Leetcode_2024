@@ -51,3 +51,4 @@
 47 | 16/2/24 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | Medium | [Java](./February%202024/Least_Number_of_Unique_Integers_after_K_Removals.java) | Feb |
 48 | 17/2/24 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | Medium | [Java](./February%202024/Furthest_Building_You_Can_Reach.java) | Feb |
 49 | 18/2/24 | [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | Hard | [Java](./February%202024/Meeting_Rooms_III.java) | Feb | 
+50 | 19/2/24 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Java](./February%202024/Power_of_Two.java) | Feb |
