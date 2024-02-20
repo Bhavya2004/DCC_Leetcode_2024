@@ -52,3 +52,4 @@
 48 | 17/2/24 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | Medium | [Java](./February%202024/Furthest_Building_You_Can_Reach.java) | Feb |
 49 | 18/2/24 | [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | Hard | [Java](./February%202024/Meeting_Rooms_III.java) | Feb | 
 50 | 19/2/24 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Java](./February%202024/Power_of_Two.java) | Feb |
+51 | 20/2/24 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Java](./February%202024/Missing__Number.java) | Feb |
