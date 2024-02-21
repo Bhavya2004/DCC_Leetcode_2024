@@ -53,3 +53,4 @@
 49 | 18/2/24 | [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | Hard | [Java](./February%202024/Meeting_Rooms_III.java) | Feb | 
 50 | 19/2/24 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Java](./February%202024/Power_of_Two.java) | Feb |
 51 | 20/2/24 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Java](./February%202024/Missing__Number.java) | Feb |
+52 | 21/2/24 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Medium | [Java](./February%202024/Bitwise_AND_of_Numbers_Range.java) | Feb | 
