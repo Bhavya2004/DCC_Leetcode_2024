@@ -54,3 +54,4 @@
 50 | 19/2/24 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Java](./February%202024/Power_of_Two.java) | Feb |
 51 | 20/2/24 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Java](./February%202024/Missing__Number.java) | Feb |
 52 | 21/2/24 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Medium | [Java](./February%202024/Bitwise_AND_of_Numbers_Range.java) | Feb | 
+53 | 22/2/24 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [Java](./February%202024/Find_the_Town_Judge.java) | Feb |
