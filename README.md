@@ -58,3 +58,4 @@
 54 | 23/2/24 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium | [Java](./February%202024/Cheapest_Flights_Within_K_Stops.java) | Feb |
 55 | 24/2/24 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | Hard | [Java](./February%202024/Find_All_People_With_Secret.java) | Feb |
 56 | 25/2/24 | [Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) | Hard | [Java](./February%202024/Greatest_Common_Divisor_Traversal.java) | Feb |
+57 | 26/2/24 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [Java](./February%202024/Same_Tree.java) | Feb |
