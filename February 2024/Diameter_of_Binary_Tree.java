@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
     public int heightOfTree(TreeNode root){ //max nodes in one line
        if(root == null){
            return 0;
