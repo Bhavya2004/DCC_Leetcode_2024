@@ -60,3 +60,4 @@
 56 | 25/2/24 | [Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) | Hard | [Java](./February%202024/Greatest_Common_Divisor_Traversal.java) | Feb |
 57 | 26/2/24 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [Java](./February%202024/Same_Tree.java) | Feb |
 58 | 27/2/24 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [Java](./February%202024/Diameter_of_Binary_Tree.java) | Feb |
+59 | 28/2/24 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | Medium | [Java](./February%202024/Find_Bottom_Left_Tree_Value.java) | Feb |
