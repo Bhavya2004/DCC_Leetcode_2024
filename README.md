@@ -62,4 +62,4 @@
 58 | 27/2/24 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [Java](./February%202024/Diameter_of_Binary_Tree.java) | Feb |
 59 | 28/2/24 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | Medium | [Java](./February%202024/Find_Bottom_Left_Tree_Value.java) | Feb |
 60 | 29/2/24 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | Medium | [Java](./February%202024/Even_Odd_Tree.java) | Feb |
-61 | 30/2/24 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | Easy | [Java](./February%202024/Maximum_Odd_Binary_Number.java) | Feb |
+61 | 1/3/24 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | Easy | [Java](./March%202024/Maximum_Odd_Binary_Number.java) | Feb |
