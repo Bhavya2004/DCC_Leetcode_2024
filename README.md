@@ -64,3 +64,4 @@
 60 | 29/2/24 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | Medium | [Java](./February%202024/Even_Odd_Tree.java) | Feb |
 61 | 1/3/24 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | Easy | [Java](./March%202024/Maximum_Odd_Binary_Number.java) | Mar |
 62 | 2/3/24 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Java](./March%202024/Squares_of_a_Sorted_Array.java) | Mar |
+63 | 3/3/24 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Java](./March%202024/Remove_Nth_Node_From_End_of_List.java) | Mar |
