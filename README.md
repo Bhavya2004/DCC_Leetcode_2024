@@ -68,3 +68,4 @@
 64 | 4/3/24 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | Medium | [Java](./March%202024/Bag_of_Tokens.java) | Mar |
 65 | 5/3/24 | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | Medium | [Java](./March%202024/Minimum_Length_of_String_After_Deleting_Similar_Ends.java) | Mar |
 66 | 6/3/24 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Java](./March%202024/Linked_List_Cycle.java) | Mar |
+67 | 7/3/24 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Java](./March%202024/Middle_of_the_Linked_List.java) | Mar |
