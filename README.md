@@ -70,3 +70,4 @@
 66 | 6/3/24 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Java](./March%202024/Linked_List_Cycle.java) | Mar |
 67 | 7/3/24 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Java](./March%202024/Middle_of_the_Linked_List.java) | Mar |
 68 | 8/3/24 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Easy | [Java](./March%202024/Count_Elements_With_Maximum_Frequency.java) | Mar |
+69 | 9/3/24 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy | [Java](./March%202024/Minimum_Common_Value.java) | Mar |
