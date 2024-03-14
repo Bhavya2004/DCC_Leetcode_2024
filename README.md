@@ -75,3 +75,4 @@
 71 | 11/3/24 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | Medium | [Java](./March%202024/Custom_Sort_String.java) | Mar |
 72 | 12/3/24 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium | [Java](./March%202024/Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.java) | Mar | 
 73 | 13/3/24 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | Easy | [Java](./March%202024/Find_the_Pivot_Integer.java) | Mar |
+74 | 14/3/24 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | [Java](./March%202024/Binary_Subarrays_With_Sum.java) | Mar |
