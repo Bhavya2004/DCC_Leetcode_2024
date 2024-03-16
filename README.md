@@ -77,3 +77,4 @@
 73 | 13/3/24 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | Easy | [Java](./March%202024/Find_the_Pivot_Integer.java) | Mar |
 74 | 14/3/24 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | [Java](./March%202024/Binary_Subarrays_With_Sum.java) | Mar |
 75 | 15/3/24 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Java](./March%202024/Product_of_Array_Except_Self.java) | Mar |
+76 | 16/3/24 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium | [Java](./March%202024/Contiguous_Array.java) | Mar |
