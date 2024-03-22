@@ -83,3 +83,4 @@
 79 | 19/3/24 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | [Java](./March%202024/Task_Scheduler.java) | Mar |
 80 | 20/3/24 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | Medium | [Java](./March%202024/Merge_In_Between_Linked_Lists.java) | Mar |
 81 | 21/3/24 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Java](./March%202024/Reverse_Linked_List.java) | Mar |
+82 | 22/3/24 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | [Java](./March%202024/Palindrome_Linked_List.java) | Easy |
