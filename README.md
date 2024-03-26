@@ -87,3 +87,4 @@
 83 | 23/3/24 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | [Java](./March%202024/Reorder_List.java) | Mar |
 84 | 24/3/24 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Java](./March%202024/Find_the_Duplicate_Number.java) | Mar |
 85 | 25/3/24 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | [Java](./March%202024/Find_All_Duplicates_in_an_Array.java) | Mar |
+86 | 26/3/24 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Java](./March%202024/First_Missing_Positive.java) | Mar |
