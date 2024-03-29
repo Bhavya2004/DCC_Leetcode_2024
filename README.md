@@ -90,3 +90,4 @@
 86 | 26/3/24 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Java](./March%202024/First_Missing_Positive.java) | Mar |
 87 | 27/3/24 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Medium | [Java](./March%202024/Subarray_Product_Less_Than_K.java) | Mar |
 88 | 28/3/24 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | [Java](./March%202024/Length_of_Longest_Subarray_With_at_Most_K_Frequency.java) | Mar |
+89 | 29/3/24 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | Medium | [Java](./March%202024/Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.java) | Mar |
