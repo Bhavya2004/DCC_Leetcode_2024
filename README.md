@@ -92,3 +92,4 @@
 88 | 28/3/24 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | [Java](./March%202024/Length_of_Longest_Subarray_With_at_Most_K_Frequency.java) | Mar |
 89 | 29/3/24 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | Medium | [Java](./March%202024/Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.java) | Mar |
 90 | 30/3/24 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Hard | [Java](./March%202024/Subarrays_with_K_Different_Integers.java) | Mar |
+91 | 31/3/24 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Hard | [Java](./March%202024/Count_Subarrays_With_Fixed_Bounds.java) | Mar |
