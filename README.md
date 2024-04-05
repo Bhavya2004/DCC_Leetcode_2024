@@ -97,3 +97,4 @@
 93 | 2/4/24 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [Java](./April%202024/Isomorphic_Strings.java) | Apr |
 94 | 3/4/24 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [Java](./April%202024/Word_Search.java) | Apr |
 95 | 4/4/24 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | [Java](./April%202024/Maximum_Nesting_Depth_of_the_Parentheses.java) | Apr |
+96 | 5/4/24 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Easy | [Java](./April%202024/Make_The_String_Great.java) | Apr |
