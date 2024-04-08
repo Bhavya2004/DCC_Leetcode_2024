@@ -100,3 +100,4 @@
 96 | 5/4/24 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Easy | [Java](./April%202024/Make_The_String_Great.java) | Apr |
 97 | 6/4/24 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | [Java](./April%202024/Minimum_Remove_to_Make_Valid_Parentheses.java) | Apr |
 98 | 7/4/24 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | [Java](./April%202024/Valid_Parenthesis_String.java) | Apr |
+99 | 8/4/24 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | [Java](./April%202024/Number_of_Students_Unable_to_Eat_Lunch.java) | Apr |
