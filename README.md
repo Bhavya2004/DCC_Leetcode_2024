@@ -102,3 +102,4 @@
 98 | 7/4/24 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | [Java](./April%202024/Valid_Parenthesis_String.java) | Apr |
 99 | 8/4/24 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | [Java](./April%202024/Number_of_Students_Unable_to_Eat_Lunch.java) | Apr |
 100 | 9/4/24 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Easy | [Java](./April%202024/Time_Needed_to_Buy_Tickets.java) | Apr |
+101 | 10/4/24 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | Medium | [Java](./April%202024/Reveal_Cards_In_Increasing_Order.java) | Apr |
