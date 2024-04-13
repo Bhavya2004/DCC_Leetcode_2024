@@ -104,3 +104,4 @@
 100 | 9/4/24 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Easy | [Java](./April%202024/Time_Needed_to_Buy_Tickets.java) | Apr |
 101 | 10/4/24 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | Medium | [Java](./April%202024/Reveal_Cards_In_Increasing_Order.java) | Apr |
 102 | 11/4/24 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | [Java](./April%202024/Remove_K_Digits.java) | Apr |
+103 | 12/4/24 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Java](./April%202024/Trapping_Rain_Water.java) | Apr | 
