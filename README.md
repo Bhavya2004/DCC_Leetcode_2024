@@ -106,3 +106,4 @@
 102 | 11/4/24 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | [Java](./April%202024/Remove_K_Digits.java) | Apr |
 103 | 12/4/24 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Java](./April%202024/Trapping_Rain_Water.java) | Apr | 
 104 | 13/4/24 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | [Java](./April%202024/Maximal_Rectangle.java) | Apr |
+105 | 14/4/24 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | [Java](./April%202024/Sum_of_Left_Leaves.java) | Apr |
