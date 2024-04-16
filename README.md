@@ -108,3 +108,4 @@
 104 | 13/4/24 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | [Java](./April%202024/Maximal_Rectangle.java) | Apr |
 105 | 14/4/24 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | [Java](./April%202024/Sum_of_Left_Leaves.java) | Apr |
 106 | 15/4/24 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [Java](./April%202024/Sum_Root_to_Leaf_Numbers.java) | Apr |
+107 | 16/4/24 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | Medium | [Java](./April%202024/Add_One_Row_to_Tree.java) | Apr |
