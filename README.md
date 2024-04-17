@@ -109,3 +109,4 @@
 105 | 14/4/24 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | [Java](./April%202024/Sum_of_Left_Leaves.java) | Apr |
 106 | 15/4/24 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [Java](./April%202024/Sum_Root_to_Leaf_Numbers.java) | Apr |
 107 | 16/4/24 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | Medium | [Java](./April%202024/Add_One_Row_to_Tree.java) | Apr |
+108 | 17/4/24 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | Medium | [Java](./April%202024/Smallest_String_Starting_From_Leaf.java) | Apr |
