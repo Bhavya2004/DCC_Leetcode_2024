@@ -112,3 +112,4 @@
 108 | 17/4/24 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | Medium | [Java](./April%202024/Smallest_String_Starting_From_Leaf.java) | Apr |
 109 | 18/4/24 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | [Java](./April%202024/Island_Perimeter.java) | Apr |
 110 | 19/4/24 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Java](./April%202024/Number_of_Islands.java) | Apr |
+111 | 20/4/24 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | Medium | [Java](./April%202024/Find_All_Groups_of_Farmland.java) | Apr |
