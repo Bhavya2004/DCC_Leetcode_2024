@@ -115,3 +115,4 @@
 111 | 20/4/24 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | Medium | [Java](./April%202024/Find_All_Groups_of_Farmland.java) | Apr |
 112 | 21/4/24 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | [Java](./April%202024/Find_if_Path_Exists_in_Graph.java) | Apr |
 113 | 22/4/24 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium | [Java](./April%202024/Open_the_Lock.java) | Apr |
+114 | 23/4/24 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [Java](./April%202024/Minimum_Height_Trees.java) | Apr |
