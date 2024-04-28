@@ -120,3 +120,4 @@
 116 | 25/4/24 | [Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/) | Medium | [Java](./April%202024/Longest_Ideal_Subsequence.java) | Apr |
 117 | 26/4/24 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | Hard | [Java](./April%202024/Minimum_Falling_Path_Sum_II.java) | Apr |
 118 | 27/4/24 | [Freedom Trail](https://leetcode.com/problems/freedom-trail/) | Hard | [Java](./April%202024/Freedom_Trail.java) | Apr |
+119 | 28/4/24 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | Hard | [Java](./April%202024/Sum_of_Distances_in_Tree.java) | Apr |
