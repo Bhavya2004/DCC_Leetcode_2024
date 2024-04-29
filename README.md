@@ -121,3 +121,4 @@
 117 | 26/4/24 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | Hard | [Java](./April%202024/Minimum_Falling_Path_Sum_II.java) | Apr |
 118 | 27/4/24 | [Freedom Trail](https://leetcode.com/problems/freedom-trail/) | Hard | [Java](./April%202024/Freedom_Trail.java) | Apr |
 119 | 28/4/24 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | Hard | [Java](./April%202024/Sum_of_Distances_in_Tree.java) | Apr |
+120 | 29/4/24 | [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium | [Java](./April%202024/Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.java) | Apr |
