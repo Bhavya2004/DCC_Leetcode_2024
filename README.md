@@ -124,3 +124,4 @@
 120 | 29/4/24 | [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium | [Java](./April%202024/Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.java) | Apr |
 121 | 30/4/24 | [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) | Medium | [Java](./April%202024/Number_of_Wonderful_Substrings.java) | Apr |
 122 | 1/5/24 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | Easy | [Java](./May%202024/Reverse_Prefix_of_Word.java) | May |
+123 | 2/5/24 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | Easy | [Java](./May%202024/Largest_Positive_Integer_That_Exists_With_Its_Negative.java) | May |
