@@ -126,3 +126,4 @@
 122 | 1/5/24 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | Easy | [Java](./May%202024/Reverse_Prefix_of_Word.java) | May |
 123 | 2/5/24 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | Easy | [Java](./May%202024/Largest_Positive_Integer_That_Exists_With_Its_Negative.java) | May |
 124 | 3/5/24 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | [Java](./May%202024/Compare_Version_Numbers.java) | May |
+125 | 4/5/24 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | [Java](./May%202024/Boats_to_Save_People.java) | May |
