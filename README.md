@@ -128,3 +128,4 @@
 124 | 3/5/24 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | [Java](./May%202024/Compare_Version_Numbers.java) | May |
 125 | 4/5/24 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | [Java](./May%202024/Boats_to_Save_People.java) | May |
 126 | 5/4/24 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | [Java](./May%202024/Delete_Node_in_a_Linked_List.java) | May |
+127 | 6/4/24 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Medium | [Java](./May%202024/Remove_Nodes_From_Linked_List.java) | May |
