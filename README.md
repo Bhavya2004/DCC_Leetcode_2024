@@ -127,6 +127,7 @@
 123 | 2/5/24 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | Easy | [Java](./May%202024/Largest_Positive_Integer_That_Exists_With_Its_Negative.java) | May |
 124 | 3/5/24 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | [Java](./May%202024/Compare_Version_Numbers.java) | May |
 125 | 4/5/24 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | [Java](./May%202024/Boats_to_Save_People.java) | May |
-126 | 5/4/24 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | [Java](./May%202024/Delete_Node_in_a_Linked_List.java) | May |
-127 | 6/4/24 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Medium | [Java](./May%202024/Remove_Nodes_From_Linked_List.java) | May |
-128 | 7/4/24 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Medium | [Java](./May%202024/Double_a_Number_Represented_as_a_Linked_List.java) | May |
+126 | 5/5/24 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | [Java](./May%202024/Delete_Node_in_a_Linked_List.java) | May |
+127 | 6/5/24 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Medium | [Java](./May%202024/Remove_Nodes_From_Linked_List.java) | May |
+128 | 7/5/24 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Medium | [Java](./May%202024/Double_a_Number_Represented_as_a_Linked_List.java) | May |
+129 | 8/5/24 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | Easy | [Java](./May%202024/Relative_Ranks.java) | May |
