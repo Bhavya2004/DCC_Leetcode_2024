@@ -132,3 +132,4 @@
 128 | 7/5/24 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Medium | [Java](./May%202024/Double_a_Number_Represented_as_a_Linked_List.java) | May |
 129 | 8/5/24 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | Easy | [Java](./May%202024/Relative_Ranks.java) | May |
 130 | 9/5/24 | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/) | Medium | [Java](./May%202024/Maximize_Happiness_of_Selected_Children.java) | May |
+131 | 10/5/24 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | Medium | [Java](./May%202024/Kth_Smallest_Prime_Fraction.java) | May |
