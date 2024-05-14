@@ -136,4 +136,4 @@
 132 | 11/5/24 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | Hard | [Java](./May%202024/Minimum_Cost_to_Hire_K_Workers.java) | May |
 133 | 12/5/24 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | Easy | [Java](./May%202024/Largest_Local_Values_in_a_Matrix.java) | May |
 134 | 13/5/24 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/) | Medium | [Java](./May%202024/Score_After_Flipping_Matrix.java) | May |
-135 | 14/5/24 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | Medium | [Java](./May%202024/PathwithMaximumGold.java) | May |
+135 | 14/5/24 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | Medium | [Java](./May%202024/PathWithMaximumGold.java) | May |
