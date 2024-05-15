@@ -137,3 +137,4 @@
 133 | 12/5/24 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | Easy | [Java](./May%202024/Largest_Local_Values_in_a_Matrix.java) | May |
 134 | 13/5/24 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/) | Medium | [Java](./May%202024/Score_After_Flipping_Matrix.java) | May |
 135 | 14/5/24 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | Medium | [Java](./May%202024/PathWithMaximumGold.java) | May |
+136 | 15/5/24 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | Medium | [Java](./May%202024/Find_the_Safest_Path_in_a_Grid.java) | May |
