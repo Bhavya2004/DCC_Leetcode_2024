@@ -142,3 +142,4 @@
 138 | 17/5/24 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | Medium | [Java](./May%202024/Delete_Leaves_With_a_Given_Value.java) | May |
 139 | 18/5/24 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | Medium | [Java](./May%202024/Distribute_Coins_in_Binary_Tree.java) | May |
 140 | 19/5/24 | [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/) | Hard | [Java](./May%202024/Find_the_Maximum_Sum_of_Node_Values.java) | Java |
+141 | 20/5/24 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | Easy | [Java](./May%202024/Sum_of_All_Subset_XOR_Totals.java) | Java |
