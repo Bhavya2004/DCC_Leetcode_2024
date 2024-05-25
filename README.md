@@ -147,3 +147,4 @@
 143 | 22/5/24 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | [Java](./May%202024/Palindrome_Partitioning.java) | May |
 144 | 23/5/24 | [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/) | Medium | [Java](./May%202024/The_Number_of_Beautiful_Subsets.java) | May |
 145 | 24/5/24 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | Hard | [Java](./May%202024/Maximum_Score_Words_Formed_by_Letters.java) | May |
+146 | 25/4/24 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | Hard | [Java](./May%202024/Word_Break_II.java) | May |
