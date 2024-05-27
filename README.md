@@ -149,3 +149,4 @@
 145 | 24/5/24 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | Hard | [Java](./May%202024/Maximum_Score_Words_Formed_by_Letters.java) | May |
 146 | 25/4/24 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | Hard | [Java](./May%202024/Word_Break_II.java) | May |
 147 | 26/4/24 | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | Hard | [Java](./May%202024/Student_Attendance_Record_II.java) | May |
+148 | 27/4/24 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | Easy | [Java](./May%202024/Special_Array_With_X_Elements_Greater_Than_or_Equal_X.java) | May |
