@@ -154,4 +154,4 @@
 150 | 29/5/24 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium | [Java](./May%202024/Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One.java) | May |
 151 | 30/5/24 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium | [Java](./May%202024/Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR.java) | May | 
 152 | 31/5/24 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | [Java](./May%202024/SingleNumberIII.java) | May |
-153 | 1/6/24 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | Easy | [Java](./June%202024/Score_of_a_String.java) | May |
+153 | 1/6/24 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | Easy | [Java](./June%202024/Score_of_a_String.java) | June |
