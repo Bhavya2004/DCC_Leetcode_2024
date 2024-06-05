@@ -158,3 +158,4 @@
 154 | 2/6/24 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [Java](./June%202024/Reverse_String.java) | June | 
 155 | 3/6/24 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | Medium | [Java](./June%202024/Append_Characters_to_String_to_Make_Subsequence.java) | June |
 156 | 4/6/24 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | [Java](./June%202024/Longest_Palindrome.java) | June |
+157 | 5/6/24 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | Easy | [Java](./June%202024/Find_Common_Characters.java) | June |
