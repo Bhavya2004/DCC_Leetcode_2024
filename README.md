@@ -160,3 +160,4 @@
 156 | 4/6/24 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | [Java](./June%202024/Longest_Palindrome.java) | June |
 157 | 5/6/24 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | Easy | [Java](./June%202024/Find_Common_Characters.java) | June |
 158 | 6/6/24 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | [Java](./June%202024/Hand_of_Straights.java) | June |
+159 | 7/6/24 | [Replace Words](https://leetcode.com/problems/replace-words/) | Medium | [Java](./June%202024/Replace_Words.java) | June |
