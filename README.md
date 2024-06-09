@@ -161,3 +161,5 @@
 157 | 5/6/24 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | Easy | [Java](./June%202024/Find_Common_Characters.java) | June |
 158 | 6/6/24 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | [Java](./June%202024/Hand_of_Straights.java) | June |
 159 | 7/6/24 | [Replace Words](https://leetcode.com/problems/replace-words/) | Medium | [Java](./June%202024/Replace_Words.java) | June |
+160 | 8/6/24 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/) | Medium | [Java](./June%202024/Continuous_Subarray_Sum.java) | June |
+161 | 9/6/24 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | [Java](./June%202024/Subarray_Sums_Divisible_by_K.java) | June |
