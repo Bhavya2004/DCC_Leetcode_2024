@@ -166,3 +166,4 @@
 162 | 10/6/24 | [Height Checker](https://leetcode.com/problems/height-checker/description/) | Easy | [Java](./June%202024/Height_Checker.java) | June |
 163 | 11/6/24 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy | [Java](./June%202024/Relative_Sort_Array.java) | June |
 164 | 12/6/24 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Java](./June%202024/Sort_Colors.java) | June |
+165 | 13/6/24 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | Easy | [Java](./June%202024/Minimum_Number_of_Moves_to_Seat_Everyone.java) | June |
