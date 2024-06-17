@@ -170,3 +170,4 @@
 166 | 14/6/24 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | Medium | [Java](./June%202024/Minimum_Increment_to_Make_Array_Unique.java) | June |
 167 | 15/6/24 | [IPO](https://leetcode.com/problems/ipo/) | Hard | [Java](./June%202024/IPO.java) | June |
 168 | 16/6/24 | [Patching Array](https://leetcode.com/problems/patching-array/) | Hard | [Java](./June%202024/Patching_Array.java) | June |
+169 | 17/6/24 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Medium | [Java](./June%202024/Sum_of_Square_Numbers.java) | June |
