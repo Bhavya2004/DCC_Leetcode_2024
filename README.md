@@ -174,3 +174,4 @@
 170 | 18/6/24 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium | [Java](./June%202024/Most_Profit_Assigning_Work.java) | June |
 171 | 19/6/24 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | [Java](./June%202024/Minimum_Number_of_Days_to_Make_m_Bouquets.java) | June |
 172 | 20/6/24 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | [Java](./June%202024/Magnetic_Force_Between_Two_Balls.java) | June |
+173 | 21/6/24 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/) | Medium | [Java](./June%202024/Grumpy_Bookstore_Owner.java) | June |
