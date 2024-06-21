@@ -173,3 +173,4 @@
 169 | 17/6/24 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Medium | [Java](./June%202024/Sum_of_Square_Numbers.java) | June |
 170 | 18/6/24 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium | [Java](./June%202024/Most_Profit_Assigning_Work.java) | June |
 171 | 19/6/24 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | [Java](./June%202024/Minimum_Number_of_Days_to_Make_m_Bouquets.java) | June |
+172 | 20/6/24 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | [Java](./June%202024/Magnetic_Force_Between_Two_Balls.java) | June |
