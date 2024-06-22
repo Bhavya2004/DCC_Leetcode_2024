@@ -175,3 +175,4 @@
 171 | 19/6/24 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | [Java](./June%202024/Minimum_Number_of_Days_to_Make_m_Bouquets.java) | June |
 172 | 20/6/24 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | [Java](./June%202024/Magnetic_Force_Between_Two_Balls.java) | June |
 173 | 21/6/24 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/) | Medium | [Java](./June%202024/Grumpy_Bookstore_Owner.java) | June |
+174 | 22/6/24 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | [Java](./June%202024/Count_Number_of_Nice_Subarrays.java) | June |
