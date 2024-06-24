@@ -177,3 +177,4 @@
 173 | 21/6/24 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/) | Medium | [Java](./June%202024/Grumpy_Bookstore_Owner.java) | June |
 174 | 22/6/24 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | [Java](./June%202024/Count_Number_of_Nice_Subarrays.java) | June |
 175 | 23/6/24 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit]() | Medium | [Java](./June%202024/Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit.java) | June |
+176 | 24/6/24 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | Hard | [Java](./June%202024/Minimum_Number_of_K_Consecutive_Bit_Flips.java) | June |
