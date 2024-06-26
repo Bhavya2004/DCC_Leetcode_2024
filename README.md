@@ -179,3 +179,4 @@
 175 | 23/6/24 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit]() | Medium | [Java](./June%202024/Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit.java) | June |
 176 | 24/6/24 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | Hard | [Java](./June%202024/Minimum_Number_of_K_Consecutive_Bit_Flips.java) | June |
 177 | 25/6/24 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Medium | [Java](./June%202024/Binary_Search_Tree_to_Greater_Sum_Tree.java) | June |
+178 | 26/6/24 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium | [Java](./June%202024/Balance_a_Binary_Search_Tree.java) | June |
