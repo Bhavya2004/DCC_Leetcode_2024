@@ -181,3 +181,4 @@
 177 | 25/6/24 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Medium | [Java](./June%202024/Binary_Search_Tree_to_Greater_Sum_Tree.java) | June |
 178 | 26/6/24 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium | [Java](./June%202024/Balance_a_Binary_Search_Tree.java) | June |
 179 | 27/6/24 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | Easy | [Java](./June%202024/Find_Center_of_Star_Graph.java) | June |
+180 | 28/6/24 | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) | Medium | [Java](./June%202024/Maximum_Total_Importance_of_Roads.java) | June |
