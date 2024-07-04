@@ -187,3 +187,4 @@
 183 | 1/7/24 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | [Java](./July%202024/Three_Consecutive_Odds.java) | July |
 184 | 2/7/24 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [Java](./July%202024/Intersection_of_Two_Arrays_II.java) | July |
 185 | 3/7/24 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium | [Java](./July%202024/Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.java) | July |
+186 | 4/7/24 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Medium | [Java](./July%202024/Merge_Nodes_in_Between_Zeros.java) | July |
