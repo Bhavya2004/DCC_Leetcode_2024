@@ -193,3 +193,4 @@
 189 | 7/7/24 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy | [Java](./July%202024/Water_Bottles.java) | July |
 190 | 8/7/24 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | [Java](./July%202024/Find_the_Winner_of_the_Circular_Game.java) | July |
 191 | 9/7/24 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | Medium | [Java](./July%202024/Average_Waiting_Time.java) | July |
+192 | 10/7/24 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | Easy | [Java](./July%202024/Crawler_Log_Folder.java) | July | 
