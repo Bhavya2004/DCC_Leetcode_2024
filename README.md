@@ -195,3 +195,4 @@
 191 | 9/7/24 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | Medium | [Java](./July%202024/Average_Waiting_Time.java) | July |
 192 | 10/7/24 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | Easy | [Java](./July%202024/Crawler_Log_Folder.java) | July | 
 193 | 11/7/24 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | [Java](./July%202024/Reverse_Substrings_Between_Each_Pair_of_Parentheses.java) | July |
+194 | 12/7/24 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | Medium | [Java](./July%202024/Maximum_Score_From_Removing_Substrings.java) | July |
