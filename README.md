@@ -198,3 +198,4 @@
 194 | 12/7/24 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | Medium | [Java](./July%202024/Maximum_Score_From_Removing_Substrings.java) | July |
 195 | 13/7/24 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/) | Hard | [Java](./July%202024/Robot_Collisions.java) | July |
 196 | 14/7/24 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | Hard | [Java](./July%202024/Number_of_Atoms.java) | July |
+197 | 15/7/24 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/) | Medium | [Java](./July%202024/Create_Binary_Tree_From_Descriptions.java) | July |
