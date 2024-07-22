@@ -205,3 +205,4 @@
 201 | 19/7/24 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | Easy | [Java](./July%202024/Lucky_Numbers_in_a_Matrix.java) | July |
 202 | 20/7/24 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | Medium | [Java](./July%202024/Find_Valid_Matrix_Given_Row_and_Column_Sums.java) | July |
 203 | 21/7/24 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | Hard | [Java](./July%202024/Build_a_Matrix_With_Conditions.java) | July |
+204 | 22/7/24 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | Easy | [Java](./July%202024/Sort_the_People.java) | July |
