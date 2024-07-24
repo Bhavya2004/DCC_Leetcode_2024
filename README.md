@@ -207,3 +207,4 @@
 203 | 21/7/24 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | Hard | [Java](./July%202024/Build_a_Matrix_With_Conditions.java) | July |
 204 | 22/7/24 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | Easy | [Java](./July%202024/Sort_the_People.java) | July |
 205 | 23/7/24 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | Easy | [Java](./July%202024/Sort_Array_by_Increasing_Frequency.java) | July |
+206 | 24/7/24 | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/) | Medium | [Java](./July%202024/Sort_the_Jumbled_Numbers.java) | July | 
