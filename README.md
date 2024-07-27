@@ -210,3 +210,4 @@
 206 | 24/7/24 | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/) | Medium | [Java](./July%202024/Sort_the_Jumbled_Numbers.java) | July | 
 207 | 25/7/24 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | [Java](./July%202024/Sort_an_Array.java) | July |
 208 | 26/7/24 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | [Java](./July%202024/Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.java) | July |
+209 | 27/7/24 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium | [Java](./July%202024/Minimum_Cost_to_Convert_String_I.java) | July |
