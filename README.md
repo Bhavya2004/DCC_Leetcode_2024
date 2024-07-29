@@ -212,3 +212,4 @@
 208 | 26/7/24 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | [Java](./July%202024/Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.java) | July |
 209 | 27/7/24 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium | [Java](./July%202024/Minimum_Cost_to_Convert_String_I.java) | July |
 210 | 28/7/24 | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | Hard | [Java](./July%202024/Second_Minimum_Time_to_Reach_Destination.java) | July |
+211 | 29/7/24 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | Medium | [Java](./July%202024/Count_Number_of_Teams.java) | July |
